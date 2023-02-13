@@ -1,0 +1,911 @@
+[
+  {
+    "number": 1,
+    "name": "Зевс",
+    "prompt": "Pallas cat in a dramatic and powerful pose, with a commanding and assertive expression.",
+    "pngUrl": "https://cdn.midjourney.com/2a0cda6a-9a8b-47ab-b632-a0310cf1e6e7/0_0.png",
+    "pngInregrity": "sha256-3b41904eebb7efae066ec73ef7dfff0f55764d7503c1a023d1ecb6cf80e110c4",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-001.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-001-thumbnail.jpg"
+  },
+  {
+    "number": 2,
+    "name": "Смоки",
+    "prompt": "Pallas cat in a dramatic and intense pose, with a powerful and commanding expression.",
+    "pngUrl": "https://cdn.midjourney.com/4b18c3ea-d530-4d33-8816-6cc90c5ecebd/0_0.png",
+    "pngInregrity": "sha256-d83a77cebbb2632ce1a7893781305cab9b6dc1e1f5c306e97f5248a4d4550e52",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-002.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-002-thumbnail.jpg"
+  },
+  {
+    "number": 3,
+    "name": "Шарлотка",
+    "prompt": "Pallas cat in a cute and fluffy pose, with a soft and plush appearance.",
+    "pngUrl": "https://cdn.midjourney.com/1e154c95-816d-46af-9fdc-b9154dd257a2/0_0.png",
+    "pngInregrity": "sha256-15ba2c77aa3a8a274d6296e66b209a433e7289c029e8e21f71a4011e18dc61f0",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-003.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-003-thumbnail.jpg"
+  },
+  {
+    "number": 4,
+    "name": "Сорванец",
+    "prompt": "Pallas cat in a cute and cuddly pose, with a warm and inviting appearance.",
+    "pngUrl": "https://cdn.midjourney.com/2c343217-0c0a-45f4-91a6-749f7f460ca8/0_0.png",
+    "pngInregrity": "sha256-ecb5c50e30e600e02da20ed5097487d440b571b78d9fe418b4ce5e00a7fc37db",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-004.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-004-thumbnail.jpg"
+  },
+  {
+    "number": 5,
+    "name": "Броди",
+    "prompt": "Pallas cat in a serious and focused pose, with a determined and unwavering gaze.",
+    "pngUrl": "https://cdn.midjourney.com/d1ecb1ee-085e-4fe0-b3ea-867abcad818b/0_0.png",
+    "pngInregrity": "sha256-30cd6d23abdf8bb804033dc45ce920182b4424172546ea9cc7f83d4ad0c3c44b",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-005.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-005-thumbnail.jpg"
+  },
+  {
+    "number": 6,
+    "name": "Тайлер",
+    "prompt": "Pallas cat in a serious and focused pose, with a determined and unwavering gaze.",
+    "pngUrl": "https://cdn.midjourney.com/c191d2c2-f043-4a86-b041-480f444284ac/0_0.png",
+    "pngInregrity": "sha256-46cbd7eb6d64b5987efa5c67a594e07c14b91025f7067d8fe7f21a129ba40272",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-006.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-006-thumbnail.jpg"
+  },
+  {
+    "number": 7,
+    "name": "Бондарь",
+    "prompt": "Pallas cat in a dramatic and intense pose, with a powerful and commanding presence.",
+    "pngUrl": "https://cdn.midjourney.com/6e7cda84-0c84-424b-b9e5-bc4f7390452b/0_0.png",
+    "pngInregrity": "sha256-59e4e6beb0b54a38ef740d6ac1a887a9be9ff65b127e4e88391e3af3ea1d352a",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-007.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-007-thumbnail.jpg"
+  },
+  {
+    "number": 8,
+    "name": "Ветер",
+    "prompt": "Pallas cat in a peaceful and relaxed pose, with a calm and serene appearance.",
+    "pngUrl": "https://cdn.midjourney.com/8f73866d-9b90-4a6d-abec-81bd099139ed/0_0.png",
+    "pngInregrity": "sha256-02102e468cc066a86184df92ca27ca18390499578ba50648685c2ae232c2bc2b",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-008.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-008-thumbnail.jpg"
+  },
+  {
+    "number": 9,
+    "name": "Денвер",
+    "prompt": "Pallas cat in a tranquil and peaceful pose, with a calming and serene expression.",
+    "pngUrl": "https://cdn.midjourney.com/96c21c1c-6923-4668-abd5-6d70ac4e1378/0_0.png",
+    "pngInregrity": "sha256-9dde140ab962658621398c0d82a9f1cb7325d1a2fad04378c1e600a27cfc8fdf",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-009.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-009-thumbnail.jpg"
+  },
+  {
+    "number": 10,
+    "name": "Чарли",
+    "prompt": "Pallas cat in a dramatic and intense pose, with a powerful and commanding expression.",
+    "pngUrl": "https://cdn.midjourney.com/97f12e9c-c224-48c5-9701-92b68eae2096/0_0.png",
+    "pngInregrity": "sha256-c10c8b9167cc67ebc8f0c773c4cd11dc08f98f8d5929efcd5207f20cd98dacab",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-010.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-010-thumbnail.jpg"
+  },
+  {
+    "number": 11,
+    "name": "Честер",
+    "prompt": "Pallas cat in a striking and bold pose, with a confident and assertive presence.",
+    "pngUrl": "https://cdn.midjourney.com/a0815e8e-d812-4767-8af6-fe408007aaba/0_0.png",
+    "pngInregrity": "sha256-5b198f00c8ad89bc567f24218665eca60cb6b8f798f243b9702fddcb12cce605",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-011.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-011-thumbnail.jpg"
+  },
+  {
+    "number": 12,
+    "name": "Элси",
+    "prompt": "Pallas cat in a serious and focused pose, with a determined and unwavering gaze.",
+    "pngUrl": "https://cdn.midjourney.com/1e405a4d-36e6-413a-9c57-a99db41084b6/0_0.png",
+    "pngInregrity": "sha256-30a62dc4f89995f1c18181ec90ec825b60dbf91c3c2fd55944a47a33c4151fad",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-012.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-012-thumbnail.jpg"
+  },
+  {
+    "number": 13,
+    "name": "Умбра",
+    "prompt": "Pallas cat in a peaceful and calm pose, with a serene and tranquil appearance.",
+    "pngUrl": "https://cdn.midjourney.com/d260921d-4d99-4ad4-865a-742a899e469b/0_0.png",
+    "pngInregrity": "sha256-c9134cb8b23ecae9f4c90491a80edd7a69ebe734515d1d6a494eac36cfe5b4c0",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-013.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-013-thumbnail.jpg"
+  },
+  {
+    "number": 14,
+    "name": "Доби",
+    "prompt": "Pallas cat in a serious and thoughtful pose, with a contemplative and introspective gaze.",
+    "pngUrl": "https://cdn.midjourney.com/81404e59-d975-42be-abe4-f1101a5a8491/0_0.png",
+    "pngInregrity": "sha256-fd1d66d99eed817e237a6c32ec4f6e73eacf1b11cbefae6a44013de772dfd4b9",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-014.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-014-thumbnail.jpg"
+  },
+  {
+    "number": 15,
+    "name": "Мими",
+    "prompt": "Pallas cat in a cute and fluffy pose, with a fluffy tail and big eyes.",
+    "pngUrl": "https://cdn.midjourney.com/a022d0d1-8ef9-440b-8a1d-5928b8965128/0_0.png",
+    "pngInregrity": "sha256-c3c625f478be882b5254f7eebbed82302bb748688b4855d175b390918b1102b1",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-015.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-015-thumbnail.jpg"
+  },
+  {
+    "number": 16,
+    "name": "Круз",
+    "prompt": "Pallas cat in a whimsical and imaginative pose, with a playful and mischievous expression.",
+    "pngUrl": "https://cdn.midjourney.com/2d83793f-d39f-48ed-bb63-857e7742ae8e/0_0.png",
+    "pngInregrity": "sha256-f98e5413cda0e506568983316b95204d130ffa6122acb33cee09ac3de424feb0",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-016.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-016-thumbnail.jpg"
+  },
+  {
+    "number": 17,
+    "name": "Салем",
+    "prompt": "Pallas cat in a peaceful and serene pose, with a calming and tranquil appearance.",
+    "pngUrl": "https://cdn.midjourney.com/a23ac7d4-6e5d-4d85-bc7b-fa411a68da50/0_0.png",
+    "pngInregrity": "sha256-26cbb7348b8b9cef410a00438b7ff2dd9b905c53fa9fd49a59153d1b89dab184",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-017.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-017-thumbnail.jpg"
+  },
+  {
+    "number": 18,
+    "name": "Герти",
+    "prompt": "Pallas cat in a serious and contemplative pose, with a thoughtful and introspective gaze.",
+    "pngUrl": "https://cdn.midjourney.com/84030af6-20a4-4150-8d53-b3c854c9e38b/0_0.png",
+    "pngInregrity": "sha256-320a190b7ce2f62cb42ef71c7cea5e0377377f450e0592152968da51182c27e5",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-018.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-018-thumbnail.jpg"
+  },
+  {
+    "number": 19,
+    "name": "Бостон",
+    "prompt": "Pallas cat in a cute and fluffy pose, with a soft and plush appearance.",
+    "pngUrl": "https://cdn.midjourney.com/3f3ae119-c0c3-4181-91b7-05b8089a6128/0_0.png",
+    "pngInregrity": "sha256-e4730f5998ca17f221b2d297cfd8d30e519bb13f90beaf5c52a2e4b3bb0517b8",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-019.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-019-thumbnail.jpg"
+  },
+  {
+    "number": 20,
+    "name": "Вспышка",
+    "prompt": "Pallas cat in a vibrant style, with bold and bright colors.",
+    "pngUrl": "https://cdn.midjourney.com/2fc6ec6f-a9b0-4567-9a0b-0d731f0c5303/0_0.png",
+    "pngInregrity": "sha256-d3634aa0b91b43096f1cb52f1a728ca19bcd22b94cb9f9a6b58cae7e88fad60e",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-020.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-020-thumbnail.jpg"
+  },
+  {
+    "number": 21,
+    "name": "Куки",
+    "prompt": "Pallas cat in a cute and cuddly pose, with a warm and inviting appearance.",
+    "pngUrl": "https://cdn.midjourney.com/414d4326-2790-4784-b3a6-a9847f0686d7/0_0.png",
+    "pngInregrity": "sha256-a1f5ff8c64fa865cc766cc7347c49264212f0062135ca4f208e5c83cbefb7aaa",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-021.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-021-thumbnail.jpg"
+  },
+  {
+    "number": 22,
+    "name": "Дора",
+    "prompt": "Pallas cat in a peaceful and serene pose, with a calming and tranquil appearance.",
+    "pngUrl": "https://cdn.midjourney.com/7dabcea9-c4d6-4f68-9495-74e85a386e3d/0_0.png",
+    "pngInregrity": "sha256-baea04c82c8f3f057dcee6dbf6ba05eeca38757520528f981351a3315a6df314",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-022.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-022-thumbnail.jpg"
+  },
+  {
+    "number": 23,
+    "name": "Итан",
+    "prompt": "Pallas cat in a realistic style, with a curious expression on its face.",
+    "pngUrl": "https://cdn.midjourney.com/a7be56dc-243b-4c8b-bf93-c889dd077364/0_0.png",
+    "pngInregrity": "sha256-b3e993a146763b5fef219ae6b5055c641750e04647598d6b9fae11bed07abf47",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-023.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-023-thumbnail.jpg"
+  },
+  {
+    "number": 24,
+    "name": "Голди",
+    "prompt": "Pallas cat in a dramatic and powerful pose, with a commanding and assertive expression.",
+    "pngUrl": "https://cdn.midjourney.com/83e911be-6d7a-4e8b-9f3c-3e6f4b4cbb12/0_0.png",
+    "pngInregrity": "sha256-05dd1a3c7819aa763c4b13938849338809048a513ecf046115ce48cbf6246707",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-024.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-024-thumbnail.jpg"
+  },
+  {
+    "number": 25,
+    "name": "Эзра",
+    "prompt": "Pallas cat in a peaceful and serene pose, with a calming and tranquil appearance.",
+    "pngUrl": "https://cdn.midjourney.com/9267f35b-4203-4905-b403-b3d5b2337990/0_0.png",
+    "pngInregrity": "sha256-8c1fae0c1fef9ef507eb0b9c3a1dafc4a1ca20b68971d210e87adedd52510f35",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-025.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-025-thumbnail.jpg"
+  },
+  {
+    "number": 26,
+    "name": "Элейн",
+    "prompt": "Pallas cat in a dramatic and intense pose, with a powerful and commanding expression.",
+    "pngUrl": "https://cdn.midjourney.com/f01d6f39-f116-43e8-a507-bfb3d6fe7a2c/0_0.png",
+    "pngInregrity": "sha256-7038e78993d1e243da3063a2a426a6cd025921d36b7477856f17dfa3146426a9",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-026.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-026-thumbnail.jpg"
+  },
+  {
+    "number": 27,
+    "name": "Донни",
+    "prompt": "Pallas cat in a serious and focused pose, with a determined and steadfast gaze.",
+    "pngUrl": "https://cdn.midjourney.com/bd5f6c02-4b89-49d9-a07f-ab32fc5ea648/0_0.png",
+    "pngInregrity": "sha256-35dd5b2d9c4096bf69c708b0dbc08a0d6d2c85d9d582dcd824199bd739e4d0b3",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-027.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-027-thumbnail.jpg"
+  },
+  {
+    "number": 28,
+    "name": "Тотошка",
+    "prompt": "Pallas cat in a peaceful and calm pose, with a serene and tranquil appearance.",
+    "pngUrl": "https://cdn.midjourney.com/99331f2a-700e-4e02-932a-97144b723e2a/0_0.png",
+    "pngInregrity": "sha256-3f11de25a9006eb6af7045185741984c1bfbb07215c313ee587c7b92123f5922",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-028.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-028-thumbnail.jpg"
+  },
+  {
+    "number": 29,
+    "name": "Печенье",
+    "prompt": "Pallas cat in a cute and fluffy pose, with a soft and plush appearance.",
+    "pngUrl": "https://cdn.midjourney.com/e7076068-ab10-48dd-8152-803036038c75/0_0.png",
+    "pngInregrity": "sha256-6f8e344870b3c56f2ec405cf76426d4291063026049c1f34ba9303afdf638884",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-029.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-029-thumbnail.jpg"
+  },
+  {
+    "number": 30,
+    "name": "Кэсси",
+    "prompt": "Pallas cat in a peaceful and serene pose, with a calming and tranquil appearance.",
+    "pngUrl": "https://cdn.midjourney.com/05918379-2fc9-49fe-938d-3f99bfabf70b/0_0.png",
+    "pngInregrity": "sha256-2c5de088290936550abdff44e1db43cf5163502f59cac69ccfe4fb1df18e8654",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-030.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-030-thumbnail.jpg"
+  },
+  {
+    "number": 31,
+    "name": "Аполлон",
+    "prompt": "Pallas cat in a dramatic and powerful pose, with a commanding and assertive expression.",
+    "pngUrl": "https://cdn.midjourney.com/ed076514-e036-4940-aeaa-9cabc6110e8c/0_0.png",
+    "pngInregrity": "sha256-eb5d5548ec6d580a99eb27e7a9f5f3b3be94612a5a19031de7eefe8c7987094e",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-031.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-031-thumbnail.jpg"
+  },
+  {
+    "number": 32,
+    "name": "Лучник",
+    "prompt": "Pallas cat in a cute and cuddly pose, with a warm and fuzzy appearance.",
+    "pngUrl": "https://cdn.midjourney.com/7144f0f4-7a06-492f-bc55-d27539196a3a/0_0.png",
+    "pngInregrity": "sha256-6597457bba22d59ce0318bb7c36356459b1b47eb1995b8b85bb606aaa1da6f57",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-032.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-032-thumbnail.jpg"
+  },
+  {
+    "number": 33,
+    "name": "Эрик",
+    "prompt": "Pallas cat in an abstract style, with bold lines and vibrant colors.",
+    "pngUrl": "https://cdn.midjourney.com/676243fc-d152-44ee-8e39-5022ed8d331d/0_0.png",
+    "pngInregrity": "sha256-b20eaa5bd351cd354d43baf66b246b2dc92f31087f21e7c53b09c69a97c9d2ba",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-033.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-033-thumbnail.jpg"
+  },
+  {
+    "number": 34,
+    "name": "Миндалек",
+    "prompt": "Pallas cat in a dramatic and intense pose, with a powerful and commanding expression.",
+    "pngUrl": "https://cdn.midjourney.com/d9b681e1-2220-4737-81a2-4c0090ec7e9c/0_0.png",
+    "pngInregrity": "sha256-7488e6fc1df6128804d2129b2912d4474551549ede74299c2ed9ee7156e88c34",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-034.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-034-thumbnail.jpg"
+  },
+  {
+    "number": 35,
+    "name": "Карли",
+    "prompt": "Pallas cat in a lively and energetic pose, with a playful and vivacious expression.",
+    "pngUrl": "https://cdn.midjourney.com/9d795024-3976-47b6-8cb9-3db85030c7ad/0_0.png",
+    "pngInregrity": "sha256-cfd20be0fd0f7a7f57c69d4a691567deb8d9c3cb76a0836ffaf418c83afcdb0f",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-035.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-035-thumbnail.jpg"
+  },
+  {
+    "number": 36,
+    "name": "Дрейфус",
+    "prompt": "Pallas cat in a serene and peaceful pose, with a tranquil and calming appearance.",
+    "pngUrl": "https://cdn.midjourney.com/c07dbf45-08c5-421e-bbbf-a9b0d9686283/0_0.png",
+    "pngInregrity": "sha256-947e94ea34278a7d14b79f377b6b9ba8c66381f7a93fe70c006e68f157ef7e5b",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-036.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-036-thumbnail.jpg"
+  },
+  {
+    "number": 37,
+    "name": "Оскар",
+    "prompt": "Pallas cat in a majestic pose, with regal and noble presence.",
+    "pngUrl": "https://cdn.midjourney.com/19b94c5e-3a46-47ce-92a8-34ed337d062b/0_0.png",
+    "pngInregrity": "sha256-e5475120702111afb0b2d968e62f607e9d2b082a7d14d068f7445a85e053b804",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-037.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-037-thumbnail.jpg"
+  },
+  {
+    "number": 38,
+    "name": "Гард",
+    "prompt": "Pallas cat in a fierce pose, with sharp claws and piercing eyes.",
+    "pngUrl": "https://cdn.midjourney.com/5de8b180-f257-476c-ab72-779d43dc933e/0_0.png",
+    "pngInregrity": "sha256-f9ed2e56c76e2f39378525a100c1077d9ad5bc12ff8b96606b56702f03c10c5c",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-038.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-038-thumbnail.jpg"
+  },
+  {
+    "number": 39,
+    "name": "Дугал",
+    "prompt": "Pallas cat in a peaceful mood, with closed eyes and a relaxed posture.",
+    "pngUrl": "https://cdn.midjourney.com/fda15cc3-507c-41ea-8255-765e2133848b/0_0.png",
+    "pngInregrity": "sha256-7c789a13e8ee6a2d24756be61afb53bdc61b2b89bfc8b9ee90906f8d45167201",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-039.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-039-thumbnail.jpg"
+  },
+  {
+    "number": 40,
+    "name": "Зорро",
+    "prompt": "Pallas cat in a dramatic and powerful pose, with a commanding and assertive expression.",
+    "pngUrl": "https://cdn.midjourney.com/629236ee-48c2-4ea4-8a75-6fdeede4185d/0_0.png",
+    "pngInregrity": "sha256-49ce21ad8a70848631ddc582dda3f22efb2296ef392adc8e2a72c15cfb61099f",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-040.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-040-thumbnail.jpg"
+  },
+  {
+    "number": 41,
+    "name": "Живчик",
+    "prompt": "Pallas cat in a lively and energetic pose, with a playful and vivacious expression.",
+    "pngUrl": "https://cdn.midjourney.com/610807eb-7625-44c7-9140-6cf1b12458bf/0_0.png",
+    "pngInregrity": "sha256-f6407f91f0eb48753aaa33b5e6be31cb01a7feca9688fb292ffbd2b4f4c4d562",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-041.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-041-thumbnail.jpg"
+  },
+  {
+    "number": 42,
+    "name": "Бандит",
+    "prompt": "Pallas cat in a cute and fluffy pose, with a soft and plush appearance.",
+    "pngUrl": "https://cdn.midjourney.com/a657ce2f-c3e5-4edc-98fb-c0a153e1fffa/0_0.png",
+    "pngInregrity": "sha256-f04ab17a118537c3ce514b7bc0415f39ff22519a488052c3dffa84bcfada5ac4",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-042.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-042-thumbnail.jpg"
+  },
+  {
+    "number": 43,
+    "name": "Бриджит",
+    "prompt": "Pallas cat in a cute and fluffy pose, with a soft and plush appearance.",
+    "pngUrl": "https://cdn.midjourney.com/2e190b6a-ad32-44de-9d25-8ab8c19a5f1d/0_0.png",
+    "pngInregrity": "sha256-3be8ffeb1cd494784f3ffd210d66ed6e1ac45d309ef02142d8bd9a33d675c07a",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-043.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-043-thumbnail.jpg"
+  },
+  {
+    "number": 44,
+    "name": "Грейси",
+    "prompt": "Pallas cat in a cozy and comfortable pose, with a warm and inviting appearance.",
+    "pngUrl": "https://cdn.midjourney.com/590b7512-943f-4bab-b218-0171d6ea565e/0_0.png",
+    "pngInregrity": "sha256-cc61e4b0455330534fbaae76b1f0a8456a41f490a31ac4ed287df915c8a5aff4",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-044.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-044-thumbnail.jpg"
+  },
+  {
+    "number": 45,
+    "name": "Фабиан",
+    "prompt": "Pallas cat in a cute and cuddly pose, with a warm and inviting appearance.",
+    "pngUrl": "https://cdn.midjourney.com/fbf5f4f1-32ec-4ee8-9aa8-236e18b85d3a/0_0.png",
+    "pngInregrity": "sha256-df772045a3b64a6e8c1bba39217d4b183adfc2907a0ac1175fb0e253f3e0c07c",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-045.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-045-thumbnail.jpg"
+  },
+  {
+    "number": 46,
+    "name": "Элмо",
+    "prompt": "Pallas cat in a cute and fluffy pose, with a soft and cuddly appearance.",
+    "pngUrl": "https://cdn.midjourney.com/65e435dd-7fc3-435a-909b-24486ec341b9/0_0.png",
+    "pngInregrity": "sha256-f3d034dae1e5be841aaaf12014f21e303d2eaeb0f6d4199cc6a4373215487fd3",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-046.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-046-thumbnail.jpg"
+  },
+  {
+    "number": 47,
+    "name": "Макс",
+    "prompt": "Pallas cat in a peaceful and calm pose, with a serene and tranquil appearance.",
+    "pngUrl": "https://cdn.midjourney.com/44b35563-58b5-4779-9134-a80a92db656b/0_0.png",
+    "pngInregrity": "sha256-0c75579f90a356d77ef5556001b3345b485b7b562bbbb4c0ac613dc4e62948d8",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-047.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-047-thumbnail.jpg"
+  },
+  {
+    "number": 48,
+    "name": "Блеск",
+    "prompt": "Pallas cat in a dramatic pose, with its fur fluffed up.",
+    "pngUrl": "https://cdn.midjourney.com/fdc499eb-d584-4d0a-a26b-5f68cb04d51a/0_0.png",
+    "pngInregrity": "sha256-51e866003e5212bd4f3322b299a316d1345ea8a9603f54af2b784da63444627f",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-048.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-048-thumbnail.jpg"
+  },
+  {
+    "number": 49,
+    "name": "Нала",
+    "prompt": "Pallas cat in a dramatic composition, with a dramatic lighting and intense gaze.",
+    "pngUrl": "https://cdn.midjourney.com/41778d6e-846a-4b59-92fe-07ab6abc0b0d/0_0.png",
+    "pngInregrity": "sha256-901980007c1cb8729eac13f10df116284e815a7e2f01910855ce4619bbe09a75",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-049.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-049-thumbnail.jpg"
+  },
+  {
+    "number": 50,
+    "name": "Глэдис",
+    "prompt": "Pallas cat in a minimalist style, with a simple, elegant composition.",
+    "pngUrl": "https://cdn.midjourney.com/27397d0b-b8d4-481f-8869-73fc1190c32e/0_0.png",
+    "pngInregrity": "sha256-2bf8aa0a38dd3b4cea433ce98ca20b7e160c45462a54937783e56489b38777c4",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-050.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-050-thumbnail.jpg"
+  },
+  {
+    "number": 51,
+    "name": "Крапивник",
+    "prompt": "Pallas cat in an action-packed pose, with a dynamic and energetic appearance.",
+    "pngUrl": "https://cdn.midjourney.com/f629cbed-058d-4a0f-91d9-04ceb0d37000/0_0.png",
+    "pngInregrity": "sha256-1ccf83221009ed58d64e88a9463a0d1ce5320a89b592a61cc9499b29cb52b7aa",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-051.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-051-thumbnail.jpg"
+  },
+  {
+    "number": 52,
+    "name": "Луна",
+    "prompt": "Pallas cat in a serene and peaceful pose, with a calming and tranquil appearance.",
+    "pngUrl": "https://cdn.midjourney.com/7cd5f783-7e1c-4d61-ae2f-04035bf00c14/0_0.png",
+    "pngInregrity": "sha256-c87b2e9971c11a45c44e47e1b70db7d9f3ead81b555b087cbf262c00a368d12b",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-052.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-052-thumbnail.jpg"
+  },
+  {
+    "number": 53,
+    "name": "Гидеон",
+    "prompt": "Pallas cat in a dramatic and powerful pose, with a commanding and assertive expression.",
+    "pngUrl": "https://cdn.midjourney.com/1f877995-d59a-4c1a-b4e1-bd4bf2b0c474/0_0.png",
+    "pngInregrity": "sha256-bbb9a06b6d9574b419ae375ae0bcbf9acf31aa2efff224e00269c04f7b77287a",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-053.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-053-thumbnail.jpg"
+  },
+  {
+    "number": 54,
+    "name": "Берни",
+    "prompt": "Pallas cat in a serious and contemplative pose, with a thoughtful and introspective gaze.",
+    "pngUrl": "https://cdn.midjourney.com/e71a494c-f5ce-42f8-976e-f54a73287114/0_0.png",
+    "pngInregrity": "sha256-4c7c914697c429a4715745588b29855a177ccf45481f1ec033582ea50e3a1c72",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-054.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-054-thumbnail.jpg"
+  },
+  {
+    "number": 55,
+    "name": "Кратер",
+    "prompt": "Pallas cat in a playful and fun pose, with a lighthearted and joyful expression.",
+    "pngUrl": "https://cdn.midjourney.com/42f5bc4f-c5cc-46ca-a53f-b5bc44c107ee/0_0.png",
+    "pngInregrity": "sha256-f3b73226aa1417ba0069b9e7d07745a146e53c4927e5bd1aed3eba078f6dab18",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-055.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-055-thumbnail.jpg"
+  },
+  {
+    "number": 56,
+    "name": "Грэг",
+    "prompt": "Pallas cat in a serious and focused pose, with a determined and unwavering gaze.",
+    "pngUrl": "https://cdn.midjourney.com/d8cbcde3-f1e2-4dff-b793-99a823d78ad5/0_0.png",
+    "pngInregrity": "sha256-ef03752d57fd386271e74c0394a5c4f06f7f4b3de6caba0f69b231231e2135b7",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-056.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-056-thumbnail.jpg"
+  },
+  {
+    "number": 57,
+    "name": "Такер",
+    "prompt": "Pallas cat in a playful mood, with a mischievous grin.",
+    "pngUrl": "https://cdn.midjourney.com/f50db650-7803-4797-9f17-22403f41bff9/0_0.png",
+    "pngInregrity": "sha256-fb4274bb144d48e86428400c958a927fa357854bc37a7afb3adb09df5ee1c1a7",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-057.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-057-thumbnail.jpg"
+  },
+  {
+    "number": 58,
+    "name": "Грант",
+    "prompt": "Pallas cat in a peaceful and calm pose, with a serene and tranquil appearance.",
+    "pngUrl": "https://cdn.midjourney.com/ab53d3d3-28c7-487e-badc-7f7735d147c0/0_0.png",
+    "pngInregrity": "sha256-60f7f852c2ea410b0eff8ec1310aaea19132bd596ac4cf70455f0b8a61b07bf3",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-058.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-058-thumbnail.jpg"
+  },
+  {
+    "number": 59,
+    "name": "Клюква",
+    "prompt": "Pallas cat in a peaceful and serene pose, with a tranquil and calming appearance.",
+    "pngUrl": "https://cdn.midjourney.com/4450f1e3-3b38-42be-9a68-c3c5f659842f/0_0.png",
+    "pngInregrity": "sha256-b2d96f33ba04a41135f12a902ef84c9a84c873325eb0d6d45fe6ea4c35f11cf9",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-059.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-059-thumbnail.jpg"
+  },
+  {
+    "number": 60,
+    "name": "Уайет",
+    "prompt": "Pallas cat in a peaceful and serene pose, with a calming and tranquil appearance.",
+    "pngUrl": "https://cdn.midjourney.com/4cb440af-13ed-4928-b193-a38548ca8e3b/0_0.png",
+    "pngInregrity": "sha256-35c6c6df9ee1ad624f5bf9cc387a732882704f793bddf98ce0044286ad6cc476",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-060.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-060-thumbnail.jpg"
+  },
+  {
+    "number": 61,
+    "name": "Желтик",
+    "prompt": "Pallas cat in a lively and energetic pose, with a playful and joyful expression.",
+    "pngUrl": "https://cdn.midjourney.com/aac454c9-0294-495c-9d03-99506a93b81a/0_0.png",
+    "pngInregrity": "sha256-c48aa914e90d330f166c474d587b5f14e8aafe4b2dedbbda80165b381d808a4e",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-061.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-061-thumbnail.jpg"
+  },
+  {
+    "number": 62,
+    "name": "Лютик",
+    "prompt": "Pallas cat in a lively and energetic pose, with a playful and vivacious expression.",
+    "pngUrl": "https://cdn.midjourney.com/45267593-e46b-46e3-987d-ada8165d0b98/0_0.png",
+    "pngInregrity": "sha256-84c66795dfc09f39195915b9ca37fcd220f3ab1fa47ddfbf867d072918af5be4",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-062.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-062-thumbnail.jpg"
+  },
+  {
+    "number": 63,
+    "name": "Граф",
+    "prompt": "Pallas cat in a regal and majestic pose, with a proud and noble expression.",
+    "pngUrl": "https://cdn.midjourney.com/21a440c6-c890-4ae8-ae05-ee1196446a9c/0_0.png",
+    "pngInregrity": "sha256-fff00861b944962a2e1fd5b6b4798d0b91871b58ed55eb19d055069caa7115fe",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-063.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-063-thumbnail.jpg"
+  },
+  {
+    "number": 64,
+    "name": "Наперсток",
+    "prompt": "Pallas cat in a lively and energetic pose, with a playful and joyful expression.",
+    "pngUrl": "https://cdn.midjourney.com/a3216b34-1340-43af-bda2-e0e92bde86bb/0_0.png",
+    "pngInregrity": "sha256-e3710e73ac2575bce309d0ea93ccf68fbf57aa529a65607b5fb8eb1c6c89c00c",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-064.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-064-thumbnail.jpg"
+  },
+  {
+    "number": 65,
+    "name": "Вера",
+    "prompt": "Pallas cat in a dramatic and powerful pose, with a commanding and assertive expression.",
+    "pngUrl": "https://cdn.midjourney.com/54c9db25-5f95-419a-9db7-6997b1436f1b/0_0.png",
+    "pngInregrity": "sha256-ed67feb83d40c88fe890b77187dacba326afd3ea93a313e4f6bcd9579df9ed0f",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-065.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-065-thumbnail.jpg"
+  },
+  {
+    "number": 66,
+    "name": "Джордж",
+    "prompt": "Pallas cat in a dramatic and powerful pose, with a commanding and assertive expression.",
+    "pngUrl": "https://cdn.midjourney.com/d3ac759c-76ed-4425-8bb2-b34c7a62e430/0_0.png",
+    "pngInregrity": "sha256-fd5718ea9748d661fa7e7e2342ac164e3c58ca4ae70cb9b7505e39d54962f16c",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-066.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-066-thumbnail.jpg"
+  },
+  {
+    "number": 67,
+    "name": "Бренна",
+    "prompt": "Pallas cat in a lively and energetic pose, with a vibrant and playful expression.",
+    "pngUrl": "https://cdn.midjourney.com/f3268660-5175-410b-a84e-1c3b7b4d173a/0_0.png",
+    "pngInregrity": "sha256-fdd97ac5afebf7d40fca2f6b0ff1bed91cb437d9b641ca3422075dceeb05eb0b",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-067.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-067-thumbnail.jpg"
+  },
+  {
+    "number": 68,
+    "name": "Эспен",
+    "prompt": "Pallas cat in a lively and energetic pose, with a playful and vivacious expression.",
+    "pngUrl": "https://cdn.midjourney.com/bdae561c-237e-43ef-be5e-f7c9347c9f5e/0_0.png",
+    "pngInregrity": "sha256-dac22d2dbb5c782cdabb6c64a1d91a9639c8fa338a2960cffbdc6fa1bfb302f0",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-068.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-068-thumbnail.jpg"
+  },
+  {
+    "number": 69,
+    "name": "Кики",
+    "prompt": "Pallas cat in a cute and fluffy pose, with a soft and plush appearance.",
+    "pngUrl": "https://cdn.midjourney.com/2ec21443-a759-4125-bbed-c0461c19531b/0_0.png",
+    "pngInregrity": "sha256-3a20ad1a9f05a65ef4917cda330884ebcf0a2a1ba7c6590d05cb3f19b4631537",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-069.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-069-thumbnail.jpg"
+  },
+  {
+    "number": 70,
+    "name": "Маргаритка",
+    "prompt": "Pallas cat in a peaceful and calm pose, with a serene and tranquil appearance.",
+    "pngUrl": "https://cdn.midjourney.com/bcec6fb2-cf2d-40ad-a9b4-17cecd8c903a/0_0.png",
+    "pngInregrity": "sha256-6283749d0f2d8175fd45edeee7d1176413f0824d6b02f0c27c71bb6f44b09f7d",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-070.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-070-thumbnail.jpg"
+  },
+  {
+    "number": 71,
+    "name": "Белла",
+    "prompt": "Pallas cat in a cute and fluffy pose, with a soft and plush appearance.",
+    "pngUrl": "https://cdn.midjourney.com/e574fa49-13b8-4e4b-8a55-2190fac23afc/0_0.png",
+    "pngInregrity": "sha256-21f675ea2ccad8bef7059ea6a9ef36567571196c54ab9347a18266cb1b38d9d8",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-071.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-071-thumbnail.jpg"
+  },
+  {
+    "number": 72,
+    "name": "Дуги",
+    "prompt": "Pallas cat in a dramatic and intense pose, with a fierce expression.",
+    "pngUrl": "https://cdn.midjourney.com/04fa6a07-c3a8-4d1e-b162-28161d900878/0_0.png",
+    "pngInregrity": "sha256-b1ed41c596d2cdf32d7e42035b504eb76a2c3c838f9469468cdcf31c3a48d10c",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-072.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-072-thumbnail.jpg"
+  },
+  {
+    "number": 73,
+    "name": "Элайна",
+    "prompt": "Pallas cat in a dramatic and intense pose, with a powerful and commanding expression.",
+    "pngUrl": "https://cdn.midjourney.com/d23369fc-92ba-4424-8d0a-3d1b50faf5d5/0_0.png",
+    "pngInregrity": "sha256-35b15e880eed3e6b8c33027de8793d3a06608e8ff558e7a74b18e008564928e9",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-073.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-073-thumbnail.jpg"
+  },
+  {
+    "number": 74,
+    "name": "Смешок",
+    "prompt": "Pallas cat in a lively and energetic pose, with a playful and joyful expression.",
+    "pngUrl": "https://cdn.midjourney.com/75f6f26e-430e-4eaf-b1b2-a5e5f3f60ee6/0_0.png",
+    "pngInregrity": "sha256-b2ad843599ae8c30f76ee16926213ce1fee324fa6b2d69e61168399df27f4b85",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-074.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-074-thumbnail.jpg"
+  },
+  {
+    "number": 75,
+    "name": "Брэкстон",
+    "prompt": "Pallas cat in a playful and mischievous pose, with a fun and lighthearted expression.",
+    "pngUrl": "https://cdn.midjourney.com/15a5606d-5d7e-442e-9cf5-694cef99541a/0_0.png",
+    "pngInregrity": "sha256-3655e646acf55c1f48740f9a1f655fd0d7c6956b60b39c2f419db84cd8065b6c",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-075.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-075-thumbnail.jpg"
+  },
+  {
+    "number": 76,
+    "name": "Пушистик",
+    "prompt": "Pallas cat in a cute and cuddly pose, with a plush and soft appearance.",
+    "pngUrl": "https://cdn.midjourney.com/0c586c7a-4467-474a-8c6e-e7dc576740d3/0_0.png",
+    "pngInregrity": "sha256-0e01aff38027279c1f24b7837f368454b53ae54a79e19c4295790e3c5cf48982",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-076.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-076-thumbnail.jpg"
+  },
+  {
+    "number": 77,
+    "name": "Грэм",
+    "prompt": "Pallas cat in a serious and contemplative pose, with a thoughtful and introspective gaze.",
+    "pngUrl": "https://cdn.midjourney.com/7e9d999b-1e5c-4a2e-9ff1-9117d3b59879/0_0.png",
+    "pngInregrity": "sha256-88f89b9e5a213b12ca6afd32aab83c56389a78223af29726999b504ce371cb34",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-077.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-077-thumbnail.jpg"
+  },
+  {
+    "number": 78,
+    "name": "Форрест",
+    "prompt": "Pallas cat in a relaxed and carefree pose, with a content and peaceful appearance.",
+    "pngUrl": "https://cdn.midjourney.com/20597751-8d2b-4722-976b-d0ccc17275d8/0_0.png",
+    "pngInregrity": "sha256-221e2a3e2216b25f5dac5376085fa7d92f62bb67fc8aaee231e7a4b60714ec8b",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-078.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-078-thumbnail.jpg"
+  },
+  {
+    "number": 79,
+    "name": "Урсула",
+    "prompt": "Pallas cat in a serene composition, surrounded by nature.",
+    "pngUrl": "https://cdn.midjourney.com/7cbe3332-f9dc-45db-812c-aaff8b62ccca/0_0.png",
+    "pngInregrity": "sha256-9deff57382918a9ee0c4aecb436bd8f19e5877464dadb9680dcd1a2f97f3e210",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-079.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-079-thumbnail.jpg"
+  },
+  {
+    "number": 80,
+    "name": "Тигр",
+    "prompt": "Pallas cat in a dramatic and intense pose, with a powerful and commanding presence.",
+    "pngUrl": "https://cdn.midjourney.com/62d8f9aa-47d4-4a0a-b4cd-6b953ec73637/0_0.png",
+    "pngInregrity": "sha256-6562137749a4a79fd88f227bbf256a31dd03581eb6540645c7b00c0521ed756e",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-080.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-080-thumbnail.jpg"
+  },
+  {
+    "number": 81,
+    "name": "Ржавый",
+    "prompt": "Pallas cat in a lively and energetic pose, with a playful and vivacious expression.",
+    "pngUrl": "https://cdn.midjourney.com/c1bef10f-7229-4fce-a22a-cebbb04159fe/0_0.png",
+    "pngInregrity": "sha256-0c152d6c48118f97f78de0727835d44952addd830dd12c8c1574853a699cac80",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-081.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-081-thumbnail.jpg"
+  },
+  {
+    "number": 82,
+    "name": "Ириска",
+    "prompt": "Pallas cat in a sad mood, with droopy eyes and a sorrowful expression.",
+    "pngUrl": "https://cdn.midjourney.com/a59e155f-7518-4f81-bc40-db89e1f657ad/0_0.png",
+    "pngInregrity": "sha256-5d5be078680a38599af61ef61791814b28e0b94136aae75570aa46427e1520c5",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-082.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-082-thumbnail.jpg"
+  },
+  {
+    "number": 83,
+    "name": "Облачко",
+    "prompt": "Pallas cat in a serious and contemplative pose, with a thoughtful and introspective gaze.",
+    "pngUrl": "https://cdn.midjourney.com/6a744f7c-fcae-4bc4-8e18-27a6fee72a86/0_0.png",
+    "pngInregrity": "sha256-1342b480602d3be914314e7961dea7f567171a31708b919ed014027b48b18470",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-083.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-083-thumbnail.jpg"
+  },
+  {
+    "number": 84,
+    "name": "Арахис",
+    "prompt": "Pallas cat in a cute and cuddly pose, with a warm and inviting appearance.",
+    "pngUrl": "https://cdn.midjourney.com/f25a3a1b-62fb-4004-a0a5-847bc90784c1/0_0.png",
+    "pngInregrity": "sha256-4a816377263720b0ebc87e71bfa7e87fa3c4ee3b2990cfd36fff08cc1a8e23a8",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-084.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-084-thumbnail.jpg"
+  },
+  {
+    "number": 85,
+    "name": "Фрэнсис",
+    "prompt": "Pallas cat in a whimsical style, with a dreamy, imaginative composition.",
+    "pngUrl": "https://cdn.midjourney.com/48354548-f4e8-4468-9664-3887e4c234f1/0_0.png",
+    "pngInregrity": "sha256-5732ae698013c7ff7f40ee601c6b6f459ebbba70334ff56623e0b255d861156d",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-085.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-085-thumbnail.jpg"
+  },
+  {
+    "number": 86,
+    "name": "Дымка",
+    "prompt": "Pallas cat in a lively and energetic pose, with a playful and joyful expression.",
+    "pngUrl": "https://cdn.midjourney.com/6f5994ce-5467-4926-a944-bd4e6e749da6/0_0.png",
+    "pngInregrity": "sha256-a6fdbdc655166df5ddc0742b73ef4dc846fa04f7fd9b703bf9d8a666b1a7c26c",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-086.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-086-thumbnail.jpg"
+  },
+  {
+    "number": 87,
+    "name": "Гэри",
+    "prompt": "Pallas cat in a serious and focused pose, with a determined and unwavering gaze.",
+    "pngUrl": "https://cdn.midjourney.com/d7b01d71-3317-4b0c-a67f-9803aef1cabb/0_0.png",
+    "pngInregrity": "sha256-49b83971642976ab6c07a0a18ee03af4dfce32340565c027f9c8ae715435d847",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-087.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-087-thumbnail.jpg"
+  },
+  {
+    "number": 88,
+    "name": "Глория",
+    "prompt": "Pallas cat in a serious and focused pose, with a determined and unwavering gaze.",
+    "pngUrl": "https://cdn.midjourney.com/b6dfad85-0aac-4338-8f71-2966f18dbc3a/0_0.png",
+    "pngInregrity": "sha256-c2cb9b7c3063a15024f1f0fa112938b95ace4c5c450d6f9fea9ceb4ed4a081c5",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-088.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-088-thumbnail.jpg"
+  },
+  {
+    "number": 89,
+    "name": "Ива",
+    "prompt": "Pallas cat in a lively and energetic pose, with a joyful and playful expression.",
+    "pngUrl": "https://cdn.midjourney.com/d17d589a-ea17-4b93-81f2-adb8c9067bda/0_0.png",
+    "pngInregrity": "sha256-7499ea1c0805b6f763c83c607d4de2697528e015677ef7c5cd9be90b475a9bfc",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-089.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-089-thumbnail.jpg"
+  },
+  {
+    "number": 90,
+    "name": "Джино",
+    "prompt": "Pallas cat in a serious and contemplative pose, with a thoughtful and introspective gaze.",
+    "pngUrl": "https://cdn.midjourney.com/0b9b2f51-3a9f-4a55-9400-672f4f89ca4e/0_0.png",
+    "pngInregrity": "sha256-b2016efbb1e73dbf77b89e5ddca260dac4cc3021807ced69901dd81b64549e71",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-090.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-090-thumbnail.jpg"
+  },
+  {
+    "number": 91,
+    "name": "Крис",
+    "prompt": "Pallas cat in a cute and cuddly pose, with a warm and inviting appearance.",
+    "pngUrl": "https://cdn.midjourney.com/cfd26861-6459-42e4-83d8-826fb9d692fd/0_0.png",
+    "pngInregrity": "sha256-5ac817a656ad17d2ec78c5f0844f0c80b7c20751110585ceaddb53769ea39d60",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-091.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-091-thumbnail.jpg"
+  },
+  {
+    "number": 92,
+    "name": "Томми",
+    "prompt": "Pallas cat in a lively and energetic pose, with a playful and vivacious expression.",
+    "pngUrl": "https://cdn.midjourney.com/fa1da38c-2030-4f7e-9ae1-5d6258fb2277/0_0.png",
+    "pngInregrity": "sha256-de8fe31714a1e6cd1dd3e1dc7b16fb8f44b581d7f9539b2f802500560599205d",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-092.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-092-thumbnail.jpg"
+  },
+  {
+    "number": 93,
+    "name": "Конфета",
+    "prompt": "Pallas cat in a cute and cuddly pose, with a warm and inviting appearance.",
+    "pngUrl": "https://cdn.midjourney.com/3bc07b26-1b82-4a04-a435-2aee93c083dd/0_0.png",
+    "pngInregrity": "sha256-53cc22e526a5f27b58904d4be83439dc2d89c8ead45392cc43b18e693a539bb5",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-093.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-093-thumbnail.jpg"
+  },
+  {
+    "number": 94,
+    "name": "Оливер",
+    "prompt": "Pallas cat in a dramatic and intense pose, with a powerful and commanding expression.",
+    "pngUrl": "https://cdn.midjourney.com/6456f40f-2a77-47e2-b9a6-d8cad6689835/0_0.png",
+    "pngInregrity": "sha256-6659cf1592e86b10f2c259b2a6e94647d6dcd6a44f3cc250549a44567de05ef3",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-094.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-094-thumbnail.jpg"
+  },
+  {
+    "number": 95,
+    "name": "Бекс",
+    "prompt": "Pallas cat in a serious and focused pose, with a determined and unwavering gaze.",
+    "pngUrl": "https://cdn.midjourney.com/1a21b07d-a688-4084-b478-798df58b0161/0_0.png",
+    "pngInregrity": "sha256-10c2620845beac5f02b0b8fe2f2a2f45de442849ebefef206395d05a62976dc2",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-095.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-095-thumbnail.jpg"
+  },
+  {
+    "number": 96,
+    "name": "Далила",
+    "prompt": "Pallas cat in a lively and energetic pose, with a playful and vivacious expression.",
+    "pngUrl": "https://cdn.midjourney.com/ced2bd34-9a15-404f-84e9-f90159ac3e1e/0_0.png",
+    "pngInregrity": "sha256-29d2972079affa2dcc6b9ba979b6609fe41c11c5700e1224d5047672b2e64927",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-096.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-096-thumbnail.jpg"
+  },
+  {
+    "number": 97,
+    "name": "Серебро",
+    "prompt": "Pallas cat in a lively and energetic pose, with a playful and joyful expression.",
+    "pngUrl": "https://cdn.midjourney.com/dcd013ab-90d6-4ccd-891b-7aed1d1838a6/0_0.png",
+    "pngInregrity": "sha256-af24f1668b9de79cdb07357137a7d8380eb60bbddd1759ff73640c143bfca64c",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-097.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-097-thumbnail.jpg"
+  },
+  {
+    "number": 98,
+    "name": "Грейсон",
+    "prompt": "Pallas cat in a serious and contemplative pose, with a thoughtful and introspective gaze.",
+    "pngUrl": "https://cdn.midjourney.com/8d262773-351f-43b1-8adf-464ed88d814d/0_0.png",
+    "pngInregrity": "sha256-1c49c8bfe6dcc7f90153a89d92011ea266b38bfbd985563c8c235b48b770ac7b",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-098.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-098-thumbnail.jpg"
+  },
+  {
+    "number": 99,
+    "name": "Рыболов",
+    "prompt": "Pallas cat in a serious and contemplative pose, with a thoughtful and introspective gaze.",
+    "pngUrl": "https://cdn.midjourney.com/54c0dadd-6527-400e-a73d-43324fada643/0_0.png",
+    "pngInregrity": "sha256-c1c1b819870ed7113b6ce4ad7b073f1c14acd7d53ec1a03acecd055ae1cbde1c",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-099.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-099-thumbnail.jpg"
+  },
+  {
+    "number": 100,
+    "name": "Франклин",
+    "prompt": "Pallas cat in a peaceful and serene pose, with a calming and tranquil appearance.",
+    "pngUrl": "https://cdn.midjourney.com/26064d56-a3c2-40c6-a993-ff20bf5fc2b6/0_0.png",
+    "pngInregrity": "sha256-8df90b5b771c15ba271f64630501de13b9690596e0b9f1cc2e72b601effbac5f",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-100.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-100-thumbnail.jpg"
+  },
+  {
+    "number": 101,
+    "name": "Сокровище",
+    "prompt": "Pallas cat in a cute and cuddly pose, with a warm and inviting appearance.",
+    "pngUrl": "https://cdn.midjourney.com/b3a3f921-4b8e-46fd-a19c-65988eebeb4d/0_0.png",
+    "pngInregrity": "sha256-7cb78c6d2ea76daaf21892584b84cc0e544a281a6c481017822e723b939f69e6",
+    "jpgUrl": "https://manool.website.yandexcloud.net/manool-101.jpg",
+    "thumbnailUrl": "https://manool.website.yandexcloud.net/manool-101-thumbnail.jpg"
+  }
+]
